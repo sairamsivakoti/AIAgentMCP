@@ -1,0 +1,13 @@
+{
+  "name": "aiagentmcp",
+  "version": "1.0.0",
+  "description": "Playwright project scaffold",
+  "private": true,
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/mcp": "^0.0.76",
+    "@playwright/test": "^1.61.1"
+  }
+}
